@@ -1,0 +1,17 @@
+.main-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(14, 11, 11);
+}
+
+.main{
+  color: white;
+  padding: 30px;
+  width: 700px;
+}
+
+.completed{
+  text-decoration: line-through;
+}
